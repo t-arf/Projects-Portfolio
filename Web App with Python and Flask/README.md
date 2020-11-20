@@ -1,4 +1,4 @@
-In this project , we are going to focus on the following learning objectives:
+In this project , these are the following learning objectives:
 
 Create Web Applications with Flask
 Use Templates with Flask Applications
